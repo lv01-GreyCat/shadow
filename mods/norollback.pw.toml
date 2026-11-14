@@ -1,0 +1,13 @@
+name = "NoRollback"
+filename = "norollback-2.2.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K4Ytaql5/versions/Cct3hGkt/norollback-2.2.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "6be868d8df4f110c6055a30df48114fb5f7a88681fa34774f7791d92ca5b8ac9f92aaf025d94e2bfbba8174c764da5310ebea67e6e8fc8781c9f377d3e8976d2"
+
+[update]
+[update.modrinth]
+mod-id = "K4Ytaql5"
+version = "Cct3hGkt"

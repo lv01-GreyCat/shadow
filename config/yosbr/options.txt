@@ -1,0 +1,36 @@
+version:3700
+autoJump:false
+autoSuggestions:false
+enableVsync:false
+fullscreen:false
+fov:0.5
+guiScale:3
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Better Entity Shadow! (2.0v).zip","file/3D Default 1.19.4 v1.8.0.zip","file/§6§lClassic 3D§c v2.0.0-A.9§e 1.19.zip","file/crops-3d(2).zip","file/Shield By Side 1.2.zip","file/cubic-sun-moon-v1.8.3a.zip","file/FA+Objects-v1.1.1.zip","file/§aChests§8-§aReimagined§0_§8[v1.6.1]§0.zip","file/xali\u0027s Potions v1.0.0.zip","file/xali\u0027s Enchanted Books v1.0.0-beta.2.zip","file/better_looking_torches_v1.0.zip","file/Redstone Torch Backport Supporter §cv1.2§r.zip","file/cassette music discs 1.19.4 v1.2.zip","file/CassettePlayerV1.zip","file/Enchanting Table Magic Circle Blue v1.3.zip","minecraft:supporteatinganimation","file/Dragon Totem.zip","file/FreshAnimations_v1.9.2.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/AnimatedDoors-RPv1.2.zip"]
+incompatibleResourcePacks:["file/Better Entity Shadow! (2.0v).zip","file/crops-3d(2).zip","file/Shield By Side 1.2.zip","file/cubic-sun-moon-v1.8.3a.zip","file/FA+Objects-v1.1.1.zip","file/§aChests§8-§aReimagined§0_§8[v1.6.1]§0.zip","file/xali\u0027s Potions v1.0.0.zip","file/xali\u0027s Enchanted Books v1.0.0-beta.2.zip","file/better_looking_torches_v1.0.zip","file/Redstone Torch Backport Supporter §cv1.2§r.zip","file/CassettePlayerV1.zip","file/Enchanting Table Magic Circle Blue v1.3.zip","file/Dragon Totem.zip","file/FreshAnimations_v1.9.2.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/AnimatedDoors-RPv1.2.zip"]
+maxFps:240
+lang:en_us
+narrator:0
+realmsNotifications:false
+rawMouseInput:true
+skipMultiplayerWarning:true
+narratorHotkey:false
+allowServerListing:false
+telemetryOptInExtra:false
+onboardAccessibility:false
+key_key.sneak:key.keyboard.left.control
+key_key.sprint:key.keyboard.left.shift
+key_key.chat:key.keyboard.y
+key_key.openNotes:key.keyboard.n
+key_key.fullscreen:key.keyboard.unknown
+key_ping-wheel.key.ping-location:key.keyboard.v
+key_justzoom.keybinds.keybind.zoom:key.mouse.5
+key_key.clickthrough.toggle:key.keyboard.unknown
+key_key.trashslot.toggle:key.keyboard.unknown
+key_key.whereisit.search:key.keyboard.y
+key_iris.keybind.reload:key.keyboard.keypad.5
+key_iris.keybind.toggleShaders:key.keyboard.semicolon
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.k
+key_talkingheads.keybinding.modToggle:key.keyboard.unknown
+soundCategory_music:0.25

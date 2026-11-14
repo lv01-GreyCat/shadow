@@ -1,0 +1,13 @@
+name = "Effect Insights"
+filename = "EffectDescriptions-v20.4.0-1.20.4-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw73iLDq/versions/NlUT8J1k/EffectDescriptions-v20.4.0-1.20.4-Fabric.jar"
+hash-format = "sha512"
+hash = "1ff08af0df19b182702f6d55d7b3112dd5f69ee4a3041b55f40d12f11703b6762d2823dbeaa2888c90550d38cc3cedec839ae313bd2590675d78733e5de06800"
+
+[update]
+[update.modrinth]
+mod-id = "Kw73iLDq"
+version = "NlUT8J1k"

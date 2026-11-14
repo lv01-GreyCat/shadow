@@ -1,0 +1,6 @@
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text
+
+# Git LFS filetypes to track
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text

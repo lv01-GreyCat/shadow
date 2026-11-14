@@ -1,0 +1,13 @@
+name = "Distinct Potions"
+filename = "DistinguishedPotions-v20.4.1-1.20.4-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/7HnGihMH/DistinguishedPotions-v20.4.1-1.20.4-Fabric.jar"
+hash-format = "sha512"
+hash = "6eda5068c365ad9f39e9213741e5eb70dcd081635fb3ca82d05ebec8aa860767b593a23dd90c471e4de66824e323ff2f81a40252ca6d357f6181ab1a402e6195"
+
+[update]
+[update.modrinth]
+mod-id = "lX1xTFBZ"
+version = "7HnGihMH"

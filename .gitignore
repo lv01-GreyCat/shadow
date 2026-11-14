@@ -1,0 +1,9 @@
+# Exclude instance directory
+/instance
+
+# Exclude exported modpacks
+*.mrpack
+*.zip
+
+# Exclude personal options.txt
+/options.txt

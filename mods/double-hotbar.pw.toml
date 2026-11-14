@@ -1,0 +1,13 @@
+name = "Double Hotbar"
+filename = "double_hotbar-1.3.2.1-mc1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OpX7IHIc/versions/ABDEqpxL/double_hotbar-1.3.2.1-mc1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "b07c2a9441be7a01bbad2f071fddce1b27f1d9abf7253beea2f462fd155d9b01dd146bf2d0b952c94aaa836f2798e218567834d68460be3ff6cee3e610560e30"
+
+[update]
+[update.modrinth]
+mod-id = "OpX7IHIc"
+version = "ABDEqpxL"

@@ -1,0 +1,13 @@
+name = "AutomaticMemories"
+filename = "AutomaticMemories-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXoXVbK8/versions/rcwA60K2/AutomaticMemories-1.0.0.jar"
+hash-format = "sha512"
+hash = "11d0ff5dfe5631874232cb8398153a5311915152afc1de4460795849b47c8ba2631cd6f25f6dc7ceaa4b95119496f3e0ad949854d60b16b01606975c0093ca8b"
+
+[update]
+[update.modrinth]
+mod-id = "fXoXVbK8"
+version = "rcwA60K2"

@@ -1,0 +1,13 @@
+name = "iChunUtil"
+filename = "iChunUtil-1.20.4-Fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/aOw81c5w/iChunUtil-1.20.4-Fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "8ca01c18b9f2f96180b43a1af365d9f82d02326df31751ac976a60608e6003f5dd59252c9aea16be25b96aeb61ae184c9dba335c05e950189ae7a6f5fa7a7709"
+
+[update]
+[update.modrinth]
+mod-id = "W6ROj0Hl"
+version = "aOw81c5w"

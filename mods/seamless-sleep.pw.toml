@@ -1,0 +1,13 @@
+name = "Seamless Sleep"
+filename = "seamless-sleep-2.4.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IyHq05yB/versions/1BMAYvH7/seamless-sleep-2.4.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "8b938215973da1fbbbaa3f9c9c25e788ecd1914e700f86bfcfe3d901bb3c2ac199b32cff554d53eeeb662f37f4db069652149372f2e8ef980ae3728bb804f4ba"
+
+[update]
+[update.modrinth]
+mod-id = "IyHq05yB"
+version = "1BMAYvH7"

@@ -1,0 +1,13 @@
+name = "Better Controls"
+filename = "BetterControls-Fabric-1.20.3+v1.3.0b.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANpj0aBF/versions/BzSmcOar/BetterControls-Fabric-1.20.3%2Bv1.3.0b.jar"
+hash-format = "sha512"
+hash = "14073da6e15508a20c187b32b5ff54910d6c46dc3973370e7793e56b825878ec01a00641d66b1f978e94351f171a5fde11d337bb556aa7490f7d1d19248de710"
+
+[update]
+[update.modrinth]
+mod-id = "ANpj0aBF"
+version = "BzSmcOar"

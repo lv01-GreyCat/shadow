@@ -1,0 +1,13 @@
+name = "Persistent Options"
+filename = "persistent_options-fabric-2.1.0+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OAxJpW9U/versions/u3gnq2xo/persistent_options-fabric-2.1.0%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "818208915729dc0565c35de8392b5e82bd3018e1e5d988678fc16ea4b748be82d5554b3d6b02455782f969743d989b79cfa06dc46ece44f03723770f26c5f1cc"
+
+[update]
+[update.modrinth]
+mod-id = "OAxJpW9U"
+version = "u3gnq2xo"

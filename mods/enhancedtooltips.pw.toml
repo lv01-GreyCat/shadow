@@ -1,0 +1,13 @@
+name = "EnhancedTooltips"
+filename = "EnhancedTooltips-1.4.0+fabric.1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8H6RXl2q/versions/1ZOaMYGG/EnhancedTooltips-1.4.0%2Bfabric.1.20.4.jar"
+hash-format = "sha512"
+hash = "cc286faeb67f4e930c99f175b0efe71c7b41e0e711123f3074543868534de64a8b6bd23715cb9cce82f4137c9b80f309940f51d7317624115b72545fe2c3a82e"
+
+[update]
+[update.modrinth]
+mod-id = "8H6RXl2q"
+version = "1ZOaMYGG"

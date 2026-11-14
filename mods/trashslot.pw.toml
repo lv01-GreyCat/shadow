@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-fabric-1.20.4-16.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/KtMApssr/trashslot-fabric-1.20.4-16.0.1.jar"
+hash-format = "sha512"
+hash = "4924a1d84723ddbe4e67553951e7d374e101f4a3fcbdd196defb6bfbd0b914a9f5fce126b0ac8ee4d9b004a21f8b34b5427713550f34f00b29506d300f949b5a"
+
+[update]
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "KtMApssr"

@@ -1,0 +1,13 @@
+name = "EMIffect"
+filename = "emiffect-fabric-2.1.6+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/705gWllI/versions/5ej9JOpG/emiffect-fabric-2.1.6%2Bmc1.20.4.jar"
+hash-format = "sha512"
+hash = "fb22f6c287900bbb263a960502bd3bb151ec0ef64d87d8c6a26de8d88ccda8d22804cf83c0c253bf2c5841df4df9e4b0ce2ad12c56deaddf5fb8045a126d9318"
+
+[update]
+[update.modrinth]
+mod-id = "705gWllI"
+version = "5ej9JOpG"

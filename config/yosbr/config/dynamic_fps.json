@@ -1,0 +1,8 @@
+{
+  "download_natives": false,
+  "states": {
+    "unplugged": {
+      "enable_vsync": false
+    }
+  }
+}

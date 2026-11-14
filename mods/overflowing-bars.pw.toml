@@ -1,0 +1,13 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v20.4.0-1.20.4-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/cvWP8a7w/OverflowingBars-v20.4.0-1.20.4-Fabric.jar"
+hash-format = "sha512"
+hash = "63e7e84fec7bfceada333216e0f9bdf319ac14f0f6041127ae7a1ad3383b1f498b59f360241c768482470a0ce9430a94eedfdc6a1ea60cdb0476b5e483d7438c"
+
+[update]
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "cvWP8a7w"
