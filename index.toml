@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "16f698be9f6781616d7bc10fe4eb1385f4e262a8352a38d16103c868fcc04cb0"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "b3000690eb5d0182c72297f8e9adad2a0e5fb582f54d536cb62d6217d1811b6d"
 
@@ -303,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "03bdcadf58897acfb5cc6c60c59747e8bd362f33721cff4aa3efe3db34aea89d"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
 
 [[files]]
